@@ -1,21 +1,64 @@
 absl-py==1.2.0
+alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anaconda-client==1.10.0
 anaconda-navigator==2.2.0
+anaconda-project @ file:///C:/Windows/TEMP/abs_91fu4tfkih/croots/recipe/anaconda-project_1660339890874/work
+anyio @ file:///C:/ci/anyio_1644481921011/work/dist
 appdirs==1.4.4
 argh==0.26.2
+argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
+argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644551690056/work
+arrow @ file:///opt/conda/conda-bld/arrow_1649166651673/work
+asn1crypto @ file:///C:/ci/asn1crypto_1652326049747/work
+astroid @ file:///C:/ci/astroid_1628063282661/work
+astropy @ file:///C:/ci/astropy_1657719656942/work
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 astunparse==1.6.3
+async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 atomicwrites==1.4.0
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+autopep8 @ file:///opt/conda/conda-bld/autopep8_1639166893812/work
+Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1618170165463/work
+backports.shutil-get-terminal-size @ file:///tmp/build/80754af9/backports.shutil_get_terminal_size_1608222128777/work
+backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
 backports.weakref==1.0.post1
+bcrypt @ file:///C:/Windows/Temp/abs_36kl66t_aw/croots/recipe/bcrypt_1659554334050/work
+beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650293025093/work
+binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
+bitarray @ file:///C:/ci/bitarray_1657729621682/work
 bkcharts==0.2
+black @ file:///C:/ci/black_1660239974023/work
+bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
+bokeh @ file:///C:/Windows/TEMP/abs_4a259bc2-ed05-4a1f-808e-ac712cc0900cddqp8sp7/croots/recipe/bokeh_1658136660686/work
 boto==2.49.0
+Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
 brotlipy==0.7.0
+cached-property @ file:///tmp/build/80754af9/cached-property_1600785575025/work
 cachetools==5.2.0
+certifi @ file:///C:/Windows/TEMP/abs_e9b7158a-aa56-4a5b-87b6-c00d295b01fanefpc8_o/croots/recipe/certifi_1655968940823/work/certifi
+cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
+chardet @ file:///C:/ci/chardet_1607706937985/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///C:/ci/click_1646038595831/work
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
 clyent==1.2.2
+colorama @ file:///C:/Windows/TEMP/abs_9439aeb1-0254-449a-96f7-33ab5eb17fc8apleb4yn/croots/recipe/colorama_1657009099097/work
 comtypes==1.1.10
 conda==4.14.0
 conda-build==3.22.0
+conda-content-trust @ file:///C:/Windows/TEMP/abs_4589313d-fc62-4ccc-81c0-b801b4449e833j1ajrwu/croots/recipe/conda-content-trust_1658126379362/work
+conda-pack @ file:///tmp/build/80754af9/conda-pack_1611163042455/work
+conda-package-handling @ file:///C:/ci/conda-package-handling_1649106011304/work
 conda-repo-cli==1.0.5
+conda-token @ file:///tmp/build/80754af9/conda-token_1620076980546/work
 conda-verify==3.4.2
+contextlib2 @ file:///Users/ktietz/demo/mc3/conda-bld/contextlib2_1630668244042/work
+cookiecutter @ file:///opt/conda/conda-bld/cookiecutter_1649151442564/work
+cryptography @ file:///C:/ci/cryptography_1652083563162/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+Cython @ file:///C:/Windows/Temp/abs_b300180f-81e0-420a-bc9f-b92686316cc6ycbce4mc/croots/recipe/cython_1656941954241/work
 cytoolz==0.11.0
 daal4py==2021.5.0
 dask @ file:///C:/ci/dask-core_1658515307198/work
